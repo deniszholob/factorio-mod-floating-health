@@ -1,0 +1,14 @@
+{
+  "name": "ddd-floating-health",
+  "version": "0.0.1",
+  "title": "DDD Floating Health",
+  "author": "DDDGamer",
+  "contact": "https://github.com/deniszholob/factorio-mod-floating-health/issues",
+  "homepage": "https://discord.gg/PkyzXzz",
+  "description": "This mod shows player health floating above them when taking damage.",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1",
+    "stdlib"
+  ]
+}
