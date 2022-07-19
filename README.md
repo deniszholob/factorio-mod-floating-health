@@ -1,6 +1,8 @@
 # DDDGamer's [Factorio](https://www.factorio.com/) Floating Health Mod [![Build Status](https://github.com/deniszholob/factorio-mod-floating-health/actions/workflows/main.yml/badge.svg)](https://github.com/deniszholob/factorio-mod-floating-health/actions/workflows/main.yml)
 
-When player takes damage, floating health percentage numbers appear above the player
+When player takes damage or whenever health changes, floating health percentage numbers appear above the player
+
+![Floating Health](src/thumbnail.png)
 
 # Installation
 1. In Game Install
@@ -27,3 +29,5 @@ If you find the mod or the source code useful, consider:
 
 
 # Screenshots
+![Floating Health](screenshots/ddd-floating-health.png)
+![Floating Health Mod Settings](screenshots/ddd-floating-health-mod-settings.png)
